@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Swift & flutter**
 
-- 👨‍💻 All of my projects are available at [https://nindyodyanii.github.io/Portofolio/](https://nindyodyanii.github.io/Portofolio/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **HTML, CSS, Basic Javascript**
 
 - 📫 How to reach me **odyanindy@gmail.com**
 
-- 📄 Know about my experiences [https://nindyodyanii.github.io/Portofolio/](https://nindyodyanii.github.io/Portofolio/)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **I love my job**
 
