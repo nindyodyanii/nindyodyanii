@@ -4,17 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nindyodyanii&label=Profile%20views&color=0e75b6&style=flat" alt="nindyodyanii" /> </p>
 
-- 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/~0192895d83524d5006)
-
-- 🌱 I’m currently learning **Swift & flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **HTML, CSS, Basic Javascript**
 
-- 📫 How to reach me **odyanindy@gmail.com**
-
-- 📄 Know about my experiences
+- 📫 How to reach me **nindydesigndev@gmail.com**
 
 - ⚡ Fun fact **I love my job**
 
